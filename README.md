@@ -1,1 +1,1 @@
-*Django Home-Store*
+# Django Home-Store
