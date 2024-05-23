@@ -8,7 +8,7 @@ def catalog(request):
             {
                 'image': 'images/goods/set of tea table and three chairs.jpg',
                 'name': 'Чайный столик и три стула',
-                'description': 'Комплект из трёх стульев и дизайнерский столик для гостинной комнаты.',
+                'description': 'Комплект из трёх стульев и дизайнерский столик для гостиной комнаты.',
                 'price': 150.00
             },
             {
